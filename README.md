@@ -1,23 +1,21 @@
-# Python-Based Cybersecurity Toolkit
+# Password Strength Checker
 
 ## Domain
 Cyber Security & Ethical Hacking
 
 ## Description
-This project is a collection of cybersecurity tools developed using Python.
+A GUI-based Password Strength Checker developed using Python and Tkinter.
 
-## Modules
-1. Password Strength Checker
-2. Threat Intelligence Web Scraper
-3. File Integrity Monitor
-4. Port Scanner
+## Features
+- Weak/Medium/Strong password detection
+- Progress bar
+- Show/Hide password
+- Password improvement suggestions
 
 ## Technologies Used
 - Python
 - Tkinter
 - Regex
-- Socket Programming
-- Hashing
 
 ## Internship Project
-Cyber Security Internship Project Submission.
+Cyber Security Internship Project .
